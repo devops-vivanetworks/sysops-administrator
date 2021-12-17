@@ -19,7 +19,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
     > Catatan berisikan key point service-service di AWS.
 
 ### 3. Exam Readiness
-- [Exam Readiness: AWS Certified SysOps Administrator – Associate (Digital)](https://explore.skillbuilder.aws/learn/course/125/exam-readiness-aws-certified-solutions-architect-associate-digital)
+- [Exam Readiness: AWS Certified SysOps Administrator – Associate (Digital)](https://explore.skillbuilder.aws/learn/course/1083/exam-readiness-aws-certified-sysops-administrator-associate)
 
     > E-learning untuk latihan persiapan ujian SysOps Administrator dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
