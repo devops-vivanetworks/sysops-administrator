@@ -3,7 +3,11 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 ---
 ## Exam Preparation Materials
-### 1. AWS Course: Associate Level
+### 1. Course
+- [AWS Basics for Beginners - Full Course](https://www.youtube.com/watch?v=ulprqHHWlng&ab_channel=freeCodeCamp.org) **(Unofficial)**
+
+    > Video material dari Neal Davis (Digital Cloud Training) di freecodecamp. Silahkan dipelajari untuk memperkuat konsep dasar AWS Cloud, dimana materi ini cocok untuk pemula dan terdapat beberapa demo yang ditampilkan.
+
 - [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=KX_AfyrhlgQ&ab_channel=freeCodeCamp.org) **(Unofficial)**
 
     > Video material dari Andrew Brown (ExamPro) di freecodecamp. Silahkan dipelajari untuk memperdalam pengenalan beberapa service di AWS berikut fitur-fiturnya yang mungkin diujikan.
