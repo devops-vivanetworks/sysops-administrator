@@ -51,7 +51,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
     > Kumpulan lab AWS yang disediakan gratis. Untuk mencoba bisa mendaftar menggunakan akun Google kita.
 
 ### 3. Step-by-Step Tutorials
-- [Well-Architected Labs](https://www.wellarchitectedlabs.com)
+- [Well-Architected Labs (Operational Excellence)](https://www.wellarchitectedlabs.com/operational-excellence/)
 - [AWS Hands-On Tutorials](https://aws.amazon.com/getting-started/hands-on)
 
     > Kumpulan panduan lab yang dikerjakan diakun AWS kita. Harap berhati-hati akan biaya pengeluaran ketika melakukan langkah-langkahnya karena lab ini dikerjakan diakun AWS. Perhatikan langkah terakhir **tear down** atau **clean up** yang menjelaskan apa yang harus diterminate diakun kita.
