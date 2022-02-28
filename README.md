@@ -23,15 +23,16 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
     > Catatan berisikan key point service-service di AWS.
 
 ### 3. Exam Readiness
-- [Exam Readiness: AWS Certified SysOps Administrator – Associate (Digital)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1328/exam-readiness-aws-certified-sysops-administrator-associate-digital)
+- [Exam Readiness: AWS Certified SysOps Administrator – Associate (Digital)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/1328/exam-readiness-aws-certified-sysops-administrator-associate-digital)
 
     > E-learning untuk latihan persiapan ujian SysOps Administrator dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
 - [AWS Certified SysOps Administrator - Associate Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate_Sample-Questions.pdf)
+- [Qubits42 Test, Learn: AWS Certified Sysops Administrator - Associate (Systems Operations on AWS - AWSSYS)](https://www.qubits42.com/test/1526/1881721) **(Unofficial)**
 
-    > Beberapa contoh soal untuk mengenali format pertanyaan ujian SysOps Administrator nanti.
+    > Beberapa contoh soal untuk mempersiapkan ujian SysOps Administrator.
 
-- [AWS Certification Official Practice Question Sets (English)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/9153/aws-certification-official-practice-question-sets-english)
+- [AWS Certification Official Practice Question Sets (English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/9153/aws-certification-official-practice-question-sets-english)
 
     > Simulasi ujian via BenchPrep untuk mengenali format pertanyaan ujian SysOps Administrator nanti. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
