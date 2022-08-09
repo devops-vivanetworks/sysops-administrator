@@ -4,35 +4,27 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 ---
 ## Exam Preparation Materials
 ### 1. Course
-- [AWS Basics for Beginners - Full Course](https://www.youtube.com/watch?v=ulprqHHWlng&ab_channel=freeCodeCamp.org) **(Unofficial)**
-
-    > Video material dari Neal Davis (Digital Cloud Training) di freecodecamp. Silahkan dipelajari untuk memperkuat konsep dasar AWS Cloud, dimana materi ini cocok untuk pemula dan terdapat beberapa demo yang ditampilkan.
-
 - [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=KX_AfyrhlgQ&ab_channel=freeCodeCamp.org) **(Unofficial)**
 
     > Video material dari Andrew Brown (ExamPro) di freecodecamp. Silahkan dipelajari untuk memperdalam pengenalan beberapa service di AWS berikut fitur-fiturnya yang mungkin diujikan.
 
 
 ### 2. Exam Guide
-- [AWS Certified SysOps Administrator - Associate Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate_Exam-Guide.pdf)
+- [AWS Certified SysOps Administrator – Associate (SOA-C02) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate_Exam-Guide.pdf)
 
     > Membahas 6 domain/section yang akan ditanyakan diujian. Bisa dicek beberapa poin mana yang tidak dimengerti untuk dipelajari lebih lanjut.
 
-- [AWS Certified SysOps Administrator Associate Cheat Sheets](https://digitalcloud.training/certification-training/aws-certified-sysops-administrator-associate/) **(Unofficial)**
-
-    > Catatan berisikan key point service-service di AWS.
-
 ### 3. Exam Readiness
-- [Exam Readiness: AWS Certified SysOps Administrator – Associate (Digital)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/1328/exam-readiness-aws-certified-sysops-administrator-associate-digital)
+- [Exam Prep: AWS Certified SysOps Administrator - Associate](https://explore.skillbuilder.aws/learn/course/external/view/elearning/9313/exam-prep-aws-certified-sysops-administrator-associate)
 
     > E-learning untuk latihan persiapan ujian SysOps Administrator dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
 - [AWS Certified SysOps Administrator - Associate Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate_Sample-Questions.pdf)
-- [Qubits42 Test, Learn: AWS Certified Sysops Administrator - Associate (Systems Operations on AWS - AWSSYS)](https://www.qubits42.com/test/1526/1881721) **(Unofficial)**
+- [Qubits42 Test, Learn: AWS Certified Sysops Administrator - Associate](https://www.qubits42.com/test/1526/1881721) **(Unofficial)**
 
     > Beberapa contoh soal untuk mempersiapkan ujian SysOps Administrator.
 
-- [AWS Certification Official Practice Question Sets (English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/9153/aws-certification-official-practice-question-sets-english)
+- [AWS Certified SysOps Administrator - Associate Official Practice Question Set (SOA-C02 - English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/12485/aws-certified-sysops-administrator-associate-official-practice-question-set-soa-c02-english)
 
     > Simulasi ujian via BenchPrep untuk mengenali format pertanyaan ujian SysOps Administrator nanti. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
@@ -53,6 +45,6 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 ### 3. Step-by-Step Tutorials
 - [Well-Architected Labs (Operational Excellence)](https://www.wellarchitectedlabs.com/operational-excellence/)
-- [AWS Hands-On Tutorials](https://aws.amazon.com/getting-started/hands-on)
+- [AWS Hands-On Tutorials](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=content-type%23how-to)
 
     > Kumpulan panduan lab yang dikerjakan diakun AWS kita. Harap berhati-hati akan biaya pengeluaran ketika melakukan langkah-langkahnya karena lab ini dikerjakan diakun AWS. Perhatikan langkah terakhir **tear down** atau **clean up** yang menjelaskan apa yang harus diterminate diakun kita.
